@@ -1,0 +1,17 @@
+82% of storage used … If you run out, you won't have enough storage to create, edit and upload files. Get 100 GB of storage for ₹130.00 ₹35.00/month for 3 months.
+body{
+    margin: 0%;
+}
+.nav-item a,.navbar-brand{
+    color: white;
+}
+.hover:hover{
+    box-shadow: 0px 1px 7px rgba(0,0,0,0.6);
+}
+.user-icon{
+    font-size:2rem;
+    width: fit-content;
+    border-radius: 50%;
+    padding: 20px 25px;
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.5);
+}
